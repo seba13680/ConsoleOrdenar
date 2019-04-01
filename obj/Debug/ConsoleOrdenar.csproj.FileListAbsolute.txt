@@ -1,0 +1,7 @@
+C:\GitHubRepos\ConsoleOrdenar\ConsoleOrdenar\ConsoleOrdenar\bin\Debug\ConsoleOrdenar.exe.config
+C:\GitHubRepos\ConsoleOrdenar\ConsoleOrdenar\ConsoleOrdenar\bin\Debug\ConsoleOrdenar.exe
+C:\GitHubRepos\ConsoleOrdenar\ConsoleOrdenar\ConsoleOrdenar\bin\Debug\ConsoleOrdenar.pdb
+C:\GitHubRepos\ConsoleOrdenar\ConsoleOrdenar\ConsoleOrdenar\obj\Debug\ConsoleOrdenar.csprojAssemblyReference.cache
+C:\GitHubRepos\ConsoleOrdenar\ConsoleOrdenar\ConsoleOrdenar\obj\Debug\ConsoleOrdenar.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\ConsoleOrdenar\ConsoleOrdenar\ConsoleOrdenar\obj\Debug\ConsoleOrdenar.exe
+C:\GitHubRepos\ConsoleOrdenar\ConsoleOrdenar\ConsoleOrdenar\obj\Debug\ConsoleOrdenar.pdb
